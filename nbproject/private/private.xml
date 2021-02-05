@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Kavan/Desktop/Enotes_Project/web/login.jsp</file>
+            <file>file:/C:/Users/Kavan/Desktop/Enotes_Project/src/java/com/Servlet/UserServlet.java</file>
+            <file>file:/C:/Users/Kavan/Desktop/Enotes_Project/src/java/com/Servlet/LogoutServlet.java</file>
+            <file>file:/C:/Users/Kavan/Desktop/Enotes_Project/web/all_component/navbar.jsp</file>
+            <file>file:/C:/Users/Kavan/Desktop/Enotes_Project/web/css/style.css</file>
+            <file>file:/C:/Users/Kavan/Desktop/Enotes_Project/src/java/com/DAO/PostDAO.java</file>
+            <file>file:/C:/Users/Kavan/Desktop/Enotes_Project/web/home.jsp</file>
+            <file>file:/C:/Users/Kavan/Desktop/Enotes_Project/web/edit.jsp</file>
+            <file>file:/C:/Users/Kavan/Desktop/Enotes_Project/web/all_component/footer.jsp</file>
+            <file>file:/C:/Users/Kavan/Desktop/Enotes_Project/web/META-INF/context.xml</file>
+            <file>file:/C:/Users/Kavan/Desktop/Enotes_Project/web/showNotes.jsp</file>
+            <file>file:/C:/Users/Kavan/Desktop/Enotes_Project/web/index.jsp</file>
+            <file>file:/C:/Users/Kavan/Desktop/Enotes_Project/src/java/com/Db/DBConnect.java</file>
+            <file>file:/C:/Users/Kavan/Desktop/Enotes_Project/src/java/com/User/Post.java</file>
+            <file>file:/C:/Users/Kavan/Desktop/Enotes_Project/src/java/com/Servlet/loginServlet.java</file>
+            <file>file:/C:/Users/Kavan/Desktop/Enotes_Project/src/java/com/User/UserDetails.java</file>
+            <file>file:/C:/Users/Kavan/Desktop/Enotes_Project/web/addNotes.jsp</file>
+            <file>file:/C:/Users/Kavan/Desktop/Enotes_Project/src/java/com/Servlet/NoteEditServlet.java</file>
+            <file>file:/C:/Users/Kavan/Desktop/Enotes_Project/src/java/com/DAO/UserDAO.java</file>
+            <file>file:/C:/Users/Kavan/Desktop/Enotes_Project/src/java/com/Servlet/deleteServlet.java</file>
+            <file>file:/C:/Users/Kavan/Desktop/Enotes_Project/src/java/com/Servlet/AddNotesServlet.java</file>
+            <file>file:/C:/Users/Kavan/Desktop/Enotes_Project/web/all_component/allcss.jsp</file>
+        </group>
+    </open-files>
+</project-private>
